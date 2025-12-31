@@ -1,0 +1,8 @@
+{
+  "name": "Unio Aroma 元和 - 品牌官网",
+  "description": "Unio Aroma brand website featuring a minimalist 'Quiet Luxury' aesthetic, interactive origin map, and an AI-powered aromatherapist consultant.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
